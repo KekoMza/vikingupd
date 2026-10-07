@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "data": {
-    "version": 7,
-    "manifest": "https://raw.githubusercontent.com/KekoMza/vikingupd/main/data/manifest-v7.txt.gz",
-    "manifestSha256": "0e2d003e06ecc42deb21907bab284c9d4cb29c54b64bca00db2c4fc02c53fc2b",
+    "version": 8,
+    "manifest": "https://raw.githubusercontent.com/KekoMza/vikingupd/main/data/manifest-v8.txt.gz",
+    "manifestSha256": "e04683f7b79b2e22e47024adc9acf5b0ecdbcbfe2d332527bcffa64b0a39ac35",
     "delta": {
-      "url": "https://github.com/KekoMza/vikingupd/releases/download/data-v7/data-delta-6-7.zip",
-      "size": 5124523,
-      "sha256": "eadbb39f3e9948fceb913d3cb4371f0816d393e8c60587f3370e37c36561b014",
-      "from": 6
+      "url": "https://github.com/KekoMza/vikingupd/releases/download/data-v8/data-delta-7-8.zip",
+      "size": 15373565,
+      "sha256": "0f037032419f7e6efb0845b126e24e4882ecdaa67b30dee90dff06069a5d0feb",
+      "from": 7
     }
   }
 }
