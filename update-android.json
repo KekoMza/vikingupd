@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "data": {
+    "version": 0,
+    "manifest": "https://raw.githubusercontent.com/KekoMza/vikingupd/main/data/manifest-v0.txt.gz",
+    "manifestSha256": "04f49e75449172e402f7df3f356e7eebe60f125f23f86bebe6da5654c63b6d09",
+    "base": {
+      "version": 0,
+      "url": "https://github.com/KekoMza/vikingupd/releases/download/data-base/data-base-0.zip",
+      "size": 180195702,
+      "sha256": "0d4d67701666d673b2adfca9e834860d15cfed6d643a64feb0188d6ce0289182"
+    },
+    "apk": {
+      "versionCode": 6,
+      "versionName": "0.1.5",
+      "url": "https://github.com/KekoMza/vikingupd/releases/download/android-v0/app-debug.apk",
+      "size": 59506877,
+      "sha256": "143daf7cff57380d2592fbd9f3098f29a1a2be1da717226aeb0135cbc80b9225",
+      "mandatory": false
+    }
+  }
+}
