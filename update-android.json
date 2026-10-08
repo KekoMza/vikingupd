@@ -9,6 +9,12 @@
       "size": 5137667,
       "sha256": "26f4ee8b8c1cf41b074c8d792f73ae7f3627adb09fde3bbf8761f15fd2f27a74",
       "from": 1
+    },
+    "base": {
+      "version": 1,
+      "url": "https://github.com/KekoMza/vikingupd/releases/download/data-base/data-base-1.zip",
+      "size": 180195702,
+      "sha256": "0d4d67701666d673b2adfca9e834860d15cfed6d643a64feb0188d6ce0289182"
     }
   }
 }
