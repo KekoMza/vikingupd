@@ -1,19 +1,19 @@
 {
   "schema": 1,
   "data": {
-    "version": 4,
-    "manifest": "https://raw.githubusercontent.com/KekoMza/vikingupd/main/data/manifest-v4.txt.gz",
-    "manifestSha256": "25e6396493421b7de32ba8e61dbd079940534567e1f67bbe0f037aca662da783",
+    "version": 5,
+    "manifest": "https://raw.githubusercontent.com/KekoMza/vikingupd/main/data/manifest-v5.txt.gz",
+    "manifestSha256": "43fb4c7dbcbf6147e84c578f41f49157bda0fea7f254ad93002b2dd07b242a73",
     "delta": {
-      "url": "https://github.com/KekoMza/vikingupd/releases/download/data-v4/data-delta-3-4.zip",
-      "size": 2634868,
-      "sha256": "94d70f4ec03114b020d4d0051bff77efde0a44ca5f6dad48545737f5aea1ddc9",
+      "url": "https://github.com/KekoMza/vikingupd/releases/download/data-v5/data-delta-4-5.zip",
+      "size": 55525735,
+      "sha256": "595f34db1a189b7a1cc548dbd08a8c33ffc4d45d68f49c78000d17385045c25d",
       "from": null
     },
     "full": {
-      "url": "https://github.com/KekoMza/vikingupd/releases/download/data-base/data-base-4.zip",
-      "size": 170319147,
-      "sha256": "6c4cf98528eca77bdf68f2efff57d89b24c7b27d755de9bd188e8258d3f34642"
+      "url": "https://github.com/KekoMza/vikingupd/releases/download/data-base/data-base-5.zip",
+      "size": 59395779,
+      "sha256": "e4cf1de9b4a45800a1a5650bc3d861ff35d4a9b54d3415b2b718c32e8830ef36"
     }
   },
   "apk": {
